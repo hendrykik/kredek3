@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kredek32", "Kredek32\Kredek32.csproj", "{81D6211F-C23D-441A-A002-D069390FF156}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81D6211F-C23D-441A-A002-D069390FF156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81D6211F-C23D-441A-A002-D069390FF156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81D6211F-C23D-441A-A002-D069390FF156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81D6211F-C23D-441A-A002-D069390FF156}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29FF8A96-1037-4123-93C3-C150651EAA25}
+	EndGlobalSection
+EndGlobal
